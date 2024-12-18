@@ -1,0 +1,1 @@
+dev mode: docker compose -f compose.dev.yaml up -d --build
